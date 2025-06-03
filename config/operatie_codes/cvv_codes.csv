@@ -1,0 +1,107 @@
+category;disease;code;cvv_omschrijving
+cad;coronary_revasc;8837;percut. vaatinterventies van hart, coronairvaten, kleine circul., aortaboog en vena cava
+cad;coronary_revasc;88370;PTCA
+cad;coronary_revasc;88370;percutane transluminale coronair angioplastiek zonder plaatsing van endovasculaire stent
+cad;coronary_revasc;88373;select. trombolyse coronairv./ vaten kln. circ.
+cad;coronary_revasc;88374;PTCA met inbrengen van endovasculaire stent in coronairvaten
+cad;coronary_revasc;88378;percutane vaatinterv. hart/coronairvaten enz. nec
+cad;coronary_revasc;88378;overige percut. vaatinterventies hart, coronairvaten, aortaboog, kl.circul. en vena cava
+cad;coronary_revasc;88379;percutane vaatinterv. hart/coronairvaten enz. nno
+cad;coronary_revasc;88379;niet gesp. percut. vaatinterventies hart, coronairvaten, aortaboog, kl.circul., vena cava
+cad;coronary_revasc;8839;therapeutische cath./cannulatie bloedvaten nno-nec
+cad;coronary_revasc;5360;desobstructie van coronairarterie
+cad;coronary_revasc;53600;endarteriëctomie coronairart.
+cad;coronary_revasc;53608;desobstructie coronairarterie nec
+cad;coronary_revasc;53609;desobstructie coronairarterie nno
+cad;coronary_revasc;5361;aortocoronaire bypass
+cad;coronary_revasc;53610;aortocoronaire bypass enkelvoudig
+cad;coronary_revasc;53611;aortocoronaire bypass meervoudig
+cad;coronary_revasc;53612;Bypass a. mammaria - a. coronaria anast.
+cad;coronary_revasc;53612;a. mammaria - a. coronaria anastomose
+cad;coronary_revasc;536120;a.mammaria - a.coronaria anastomose, nno
+cad;coronary_revasc;536121;a.mammaria - a.coronaria anastomose, enkelvoudig
+cad;coronary_revasc;536122;a.mammaria - a.coronaria anastomose, meervoudig
+cad;coronary_revasc;53613;revisie van aortocoronaire bypass
+cad;coronary_revasc;53618;bypass aortocoronair nec
+cad;coronary_revasc;53619;bypass aortocoronair nno
+cad;coronary_revasc;5362;revascularisatie van hart d.m.v. arteriële implantatie
+cad;coronary_revasc;53620;Implantatie a. mammaria in hartspierweefsel
+cad;coronary_revasc;53620;implantatie van a. mammaria in hartspierweefsel
+cad;coronary_revasc;536200;implantatie van a.mammaria, nno
+cad;coronary_revasc;536201;implantatie van a.mammaria, enkelvoudig
+cad;coronary_revasc;536202;implantatie van a.mammaria, meervoudig
+cad;coronary_revasc;53621;free graft van a. mammaria, enkelvoudig
+cad;coronary_revasc;536210;free graft a. mammaria enkelvoudig nno
+cad;coronary_revasc;536211;free graft a. mammaria enkelvoudig links
+cad;coronary_revasc;536212;free graft a. mammaria enkelvoudig rechts
+cad;coronary_revasc;53622;free graft a. mammaria dubbelzijdig
+cad;coronary_revasc;53623;reïmplantatie coronairart.
+cad;coronary_revasc;53628;revascularisatie hart dmv art. implantatie nec
+cad;coronary_revasc;53629;revascularisatie hart dmv art. implantatie nno
+cad;coronary_revasc;5363;overige revascularisatie van hart
+cad;coronary_revasc;53630;open coronaire verwijdingsplastiek
+cad;coronary_revasc;53638;revascularisatie hart nec
+cad;coronary_revasc;53639;revascularisatie hart nno
+cad;coronary_revasc;5369;overige operaties van bloedvoorziening van hart
+cevd;carotid_surgery;538104;endarteriëctomie art. carotis interna intracran.
+cevd;carotid_surgery;538112;endarteriëctomie art. carotis communis
+cevd;carotid_surgery;538113;endarteriëctomie art. carotis interna extracran.
+cevd;carotid_surgery;538114;endarteriëctomie art. carotis externa
+pad;vascular_surgery;53816;endarteriëctomie van arteriën van bovenbeen
+pad;vascular_surgery;538160;endarteriëctomie art. bovenbeen nno
+pad;vascular_surgery;538161;endarteriëctomie art. femoralis
+pad;vascular_surgery;538162;endarteriëctomie art. profunda femoris
+pad;vascular_surgery;538163;endarteriëctomie art. poplitea supragenuaal
+pad;vascular_surgery;538164;endarteriëctomie art. poplitea infragenuaal
+pad;vascular_surgery;538165;endarteriëctomie art. femoralis communis
+pad;vascular_surgery;538166;endarteriëctomie art. femoralis superficialis
+pad;vascular_surgery;538169;endarteriëctomie art. bovenbeen nec
+pad;vascular_surgery;53817;endarteriëctomie van arteriën van onderbeen en voet
+pad;vascular_surgery;538170;endarteriëctomie art. onderbeen/voet nno
+pad;vascular_surgery;538171;endarteriëctomie art. tibialis anterior
+pad;vascular_surgery;538172;endarteriëctomie art. tibialis posterior
+pad;vascular_surgery;538173;endarteriëctomie art. peronea
+pad;vascular_surgery;538174;endarteriëctomie art. voet/teen
+pad;vascular_surgery;538179;endarteriëctomie art. onderbeen/voet nec
+pad;vascular_surgery;538356;res/verv.(deel v.)art. iliofemor.traject autol.mat.
+pad;vascular_surgery;538357;res./verv.(deel v)art. iliofemor.traject homol.mat.
+pad;vascular_surgery;538358;res./verv.(deel v)a. iliofemor.traject heterol.mat.
+pad;vascular_surgery;538359;res/verv.(deel v.)art. iliofemor.traject allol.mat.
+pad;vascular_surgery;53836;res.met verv. a. femoralis en femoropopliteaal traject
+pad;vascular_surgery;53836;resectie met vervanging van a. femoralis
+pad;vascular_surgery;538360;res.met verv.(deel v.)art. femoralis nno
+pad;vascular_surgery;538361;res.met verv.(deel v.)art. femoralis met autol.mat.
+pad;vascular_surgery;538362;res.met verv.art. femoralis met homol. mat.
+pad;vascular_surgery;538363;res.met verv.art. femoralis met heterol. mat.
+pad;vascular_surgery;538364;res.met verv.art. femoralis met allol. mat.
+pad;vascular_surgery;538365;res.met verv.art. femoropopl. traject nno
+pad;vascular_surgery;538366;res/verv.art. femoropopl. traject autol. mat.
+pad;vascular_surgery;538367;res/verv.art. femoropopl. traject homol. mat.
+pad;vascular_surgery;538368;res/verv.art. femoropopl. traject heterol. mat.
+pad;vascular_surgery;538369;res/verv.art. femoropopl. traject allol. mat.
+pad;vascular_surgery;53837;resectie met vervanging van crurale bloedvaten
+pad;vascular_surgery;538370;resectie met vervanging bloedvat cruraal nno
+pad;vascular_surgery;538371;res.met verv.bloedvat cruraal met autol. mat.
+pad;vascular_surgery;538372;res.met verv.bloedvat cruraal met homol. mat.
+pad;vascular_surgery;538373;res.met verv.bloedvat cruraal met heterol. mat.
+pad;vascular_surgery;538374;res.met verv.bloedvat cruraal met allol. mat.
+aaa;aaa_surgery;538322;res.met verv.(deel v.)aorta thor.-abd.m.buisproth.
+aaa;aaa_surgery;538323;resectie met vervanging (deel v.) aorta thoraco-abdominalis bif.prothese bi-iliacaal
+aaa;aaa_surgery;538323;Res.verv.(deel v)aort.thor. -abd.bif.proth.bi-iliac
+aaa;aaa_surgery;538324;res.m.verv.(deelv.)aortath. -abd.bif.proth.bi-femor
+aaa;aaa_surgery;538325;res/verv.(deel v)aort.th.-abd. bif.proth.ilio-femor
+aaa;aaa_surgery;53833;resectie met vervanging van aorta abdominalis
+aaa;aaa_surgery;538330;res.met verv.(deel v.)aorta abd. nno
+aaa;aaa_surgery;538331;res.m.verv.(deel v.)aort.abd suprarenaal buisproth
+aaa;aaa_surgery;538332;resectie met vervanging (deel v.) aorta abdominalis suprarenaal bif.prot.bi-iliacaal
+aaa;aaa_surgery;538332;Res/verv.(deel v)aort.abd. suprar.bif.prot.bi-iliac
+aaa;aaa_surgery;538333;res/verv.(deel v)aort.abd. suprar.bif.proth.bi-femo
+aaa;aaa_surgery;538334;res/verv.(deel v)aort.abd. suprar.bif.prot.ilio-fem
+aaa;aaa_surgery;538335;resectie met vervanging (deel v.) aorta abdominalis infrarenaal buisprothese
+aaa;aaa_surgery;538335;Res.m.verv.(deel v)aort.abd. infraren. buisproth.
+aaa;aaa_surgery;538336;resectie met vervanging (deel v.) aorta abdominalis infrarenaal bif.prot.bi-iliacaal
+aaa;aaa_surgery;538336;Res.verv.(deel v)aort.abd. infrar.bif.prot.bi-iliac
+aaa;aaa_surgery;538337;resectie met vervanging (deel v.) aorta abdominalis infrarenaal bif.prot.bi-femoraal
+aaa;aaa_surgery;538337;Res.verv.(deel v)aort.abd. infrar.bif.prot.bi-femor
+aaa;aaa_surgery;538338;resectie met vervanging (deel v.) aorta abdominalis infrarenaal bif.prot.ilio-femoraal
+aaa;aaa_surgery;538338;Res.verv.(deel v)aort.abd. infrar.bif.prot.ilio-fem

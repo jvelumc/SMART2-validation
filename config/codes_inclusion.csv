@@ -1,0 +1,111 @@
+category;disease;ICD10;icd_10_omschrijving;ICD9;icd_9_omschrijving
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71;Aneurysma en dissectie van aorta;;
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.3;Aneurysma van aorta abdominalis, met ruptuur;441.3;Abdominaal aneurysma van de aorta, met ruptuur
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.4;Aneurysma van aorta abdominalis, zonder vermelding van ruptuur;441.4;Abdominaal aneurysma van aorta, zonder ruptuur
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.5;Aneurysma van thoracoabdominale aorta, met ruptuur;441.1;Thoracaal aneurysma van de aorta, met ruptuur
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.5;Aneurysma van thoracoabdominale aorta, met ruptuur;441.3;Abdominaal aneurysma van de aorta, met ruptuur
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.5;Aneurysma van thoracoabdominale aorta, met ruptuur;441.5;Aneurysma van aorta, nno lokalisatie, met ruptuur
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.6;Aneurysma van thoracoabdominale aorta, zonder vermelding van ruptuur;441.2;Thoracaal aneurysma van aorta,zonder ruptuur
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.6;Aneurysma van thoracoabdominale aorta, zonder vermelding van ruptuur;441.4;Abdominaal aneurysma van aorta, zonder ruptuur
+aaa;supraor_infrarenal_aneurysm_of_aorta;I71.6;Aneurysma van thoracoabdominale aorta, zonder vermelding van ruptuur;441.9;Aneurysma van aorta, nno lokalisatie, zonder ruptuur
+cad;angina_p_w_documented_stenosis;I20.0;Instabiele angina pectoris;411.1;Intermediate' coronair syndroom
+cad;angina_p_w_documented_stenosis;I20.1;Angina pectoris met gedocumenteerde spasme;413.1;Prinzmetal angina
+cad;coronary_revasc;Z95;Aanwezigheid van cardiale en vasculaire implantaten en transplantaten;;
+cad;coronary_revasc;Z95.0;Aanwezigheid van elektronische cardiale hulpmiddelen;V45.0;Hart pacemaker in situ
+cad;coronary_revasc;Z95.1;Aanwezigheid van transplantaat voor aortocoronaire bypass;V45.81;Aortocoronaire bypass status
+cad;coronary_revasc;Z95.2;Aanwezigheid van hartklepprothese;V43.3;Aanwezigheid van kunstmatig vervangen hartklep
+cad;coronary_revasc;Z95.3;Aanwezigheid van xenogene hartklep;V42.2;Door transplantatie vervangen hartklep
+cad;coronary_revasc;Z95.4;Aanwezigheid van overige hartklepvervanging;V42.2;Door transplantatie vervangen hartklep
+cad;coronary_revasc;Z95.4;Aanwezigheid van overige hartklepvervanging;V43.3;Aanwezigheid van kunstmatig vervangen hartklep
+cad;coronary_revasc;Z95.5;Aanwezigheid van implantaat en transplantaat voor coronaire vaatplastiek;V43.4;Aanwezigheid van kunstmatig vervangen bloedvat
+cad;coronary_revasc;Z95.8;Aanwezigheid van overige gespecificeerde cardiale en vasculaire implantaten en transplantaten;V43.2;Aanwezigheid van kunstmatig vervangen hart
+cad;coronary_revasc;Z95.8;Aanwezigheid van overige gespecificeerde cardiale en vasculaire implantaten en transplantaten;V43.4;Aanwezigheid van kunstmatig vervangen bloedvat
+cad;coronary_revasc;Z95.9;Aanwezigheid van cardiaal en vasculair implantaat en transplantaat, niet gespecificeerd;V43.4;Aanwezigheid van kunstmatig vervangen bloedvat
+cad;mi;I21;Acuut myocardinfarct;;
+cad;mi;I21.0;Acuut transmuraal myocardinfarct van voorwand;410.0;Acuut myocard infarct, anterolateraal
+cad;mi;I21.0;Acuut transmuraal myocardinfarct van voorwand;410.1;Acuut myocard infarct, voorwand
+cad;mi;I21.1;Acuut transmuraal myocardinfarct van onderwand;410.2;Acuut myocard infarct, inferolateraal
+cad;mi;I21.1;Acuut transmuraal myocardinfarct van onderwand;410.3;Acuut myocard infarct, inferoposterior
+cad;mi;I21.1;Acuut transmuraal myocardinfarct van onderwand;410.4;Acuut myocard infarct, onderwand
+cad;mi;I21.2;Acuut transmuraal myocardinfarct van overige gespecificeerde lokalisaties;410.5;Acuut myocard infarct, zijwand
+cad;mi;I21.2;Acuut transmuraal myocardinfarct van overige gespecificeerde lokalisaties;410.6;Acuut zuiver achterwand infarct
+cad;mi;I21.2;Acuut transmuraal myocardinfarct van overige gespecificeerde lokalisaties;410.8;Acuut myocard infarct, lokalisatie nec
+cad;mi;I21.3;Acuut transmuraal myocardinfarct, lokalisatie niet gespecificeerd;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I21.4;Acuut subendocardiaal myocardinfarct;410.7;Acuut subendocardiaal infarct
+cad;mi;I21.9;Acuut myocardinfarct, niet gespecificeerd;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I22;Recidief myocardinfarct;;
+cad;mi;I22.0;Recidief myocardinfarct van voorwand;410.0;Acuut myocard infarct, anterolateraal
+cad;mi;I22.0;Recidief myocardinfarct van voorwand;410.1;Acuut myocard infarct, voorwand
+cad;mi;I22.1;Recidief myocardinfarct van onderwand;410.2;Acuut myocard infarct, inferolateraal
+cad;mi;I22.1;Recidief myocardinfarct van onderwand;410.3;Acuut myocard infarct, inferoposterior
+cad;mi;I22.1;Recidief myocardinfarct van onderwand;410.4;Acuut myocard infarct, onderwand
+cad;mi;I22.8;Recidief myocardinfarct van overige gespecificeerde lokalisaties;410.5;Acuut myocard infarct, zijwand
+cad;mi;I22.8;Recidief myocardinfarct van overige gespecificeerde lokalisaties;410.6;Acuut zuiver achterwand infarct
+cad;mi;I22.8;Recidief myocardinfarct van overige gespecificeerde lokalisaties;410.7;Acuut subendocardiaal infarct
+cad;mi;I22.8;Recidief myocardinfarct van overige gespecificeerde lokalisaties;410.8;Acuut myocard infarct, lokalisatie nec
+cad;mi;I22.9;Recidief myocardinfarct, lokalisatie niet gespecificeerd;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I23;Bepaalde actuele complicaties na acuut myocardinfarct;;
+cad;mi;I23.0;Hemopericard als actuele complicatie na acuut myocardinfarct;423.0;Hemopericard
+cad;mi;I23.1;Atriumseptumdefect als actuele complicatie na acuut myocardinfarct;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I23.2;Ventrikelseptumdefect als actuele complicatie na acuut myocardinfarct;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I23.3;Ruptuur van hartwand zonder hemopericard als actuele complicatie na acuut myocardinfarct;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I23.4;Ruptuur van chordae tendineae als actuele complicatie na acuut myocardinfarct;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I23.5;Ruptuur van papillaire spier als actuele complicatie na acuut myocardinfarct;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I23.6;Trombose van atrium, auricula en ventrikel als actuele complicaties na acuut myocardinfarct;410.9;Acuut myocard infarct, lokalisatie nno
+cad;mi;I23.8;Overige actuele complicaties na acuut myocardinfarct;410.9;Acuut myocard infarct, lokalisatie nno
+cevd;cerebral_infarction;I63;Cerebraal infarct;;
+cevd;cerebral_infarction;I63.0;Cerebraal infarct door trombose van precerebrale arteriën;433.0;Afsluiting of stenose van arteria basilaris
+cevd;cerebral_infarction;I63.0;Cerebraal infarct door trombose van precerebrale arteriën;433.1;Afsluiting of stenose van arteria carotis
+cevd;cerebral_infarction;I63.0;Cerebraal infarct door trombose van precerebrale arteriën;433.2;Afsluiting of stenose van arteria vertebralis
+cevd;cerebral_infarction;I63.0;Cerebraal infarct door trombose van precerebrale arteriën;433.3;Afsluiting of stenose precerebrale arterie, multipel of bilateraal
+cevd;cerebral_infarction;I63.0;Cerebraal infarct door trombose van precerebrale arteriën;433.8;Afsluiting of stenose van precerebrale arterie nec
+cevd;cerebral_infarction;I63.0;Cerebraal infarct door trombose van precerebrale arteriën;433.9;Afsluiting of stenose van precerebrale arterie, nno
+cevd;cerebral_infarction;I63.1;Cerebraal infarct door embolie van precerebrale arteriën;433.0;Afsluiting of stenose van arteria basilaris
+cevd;cerebral_infarction;I63.1;Cerebraal infarct door embolie van precerebrale arteriën;433.1;Afsluiting of stenose van arteria carotis
+cevd;cerebral_infarction;I63.1;Cerebraal infarct door embolie van precerebrale arteriën;433.2;Afsluiting of stenose van arteria vertebralis
+cevd;cerebral_infarction;I63.1;Cerebraal infarct door embolie van precerebrale arteriën;433.3;Afsluiting of stenose precerebrale arterie, multipel of bilateraal
+cevd;cerebral_infarction;I63.1;Cerebraal infarct door embolie van precerebrale arteriën;433.8;Afsluiting of stenose van precerebrale arterie nec
+cevd;cerebral_infarction;I63.1;Cerebraal infarct door embolie van precerebrale arteriën;433.9;Afsluiting of stenose van precerebrale arterie, nno
+cevd;cerebral_infarction;I63.2;Cerebraal infarct door niet gespecificeerde occlusie of stenose van precerebrale arteriën;433.0;Afsluiting of stenose van arteria basilaris
+cevd;cerebral_infarction;I63.2;Cerebraal infarct door niet gespecificeerde occlusie of stenose van precerebrale arteriën;433.1;Afsluiting of stenose van arteria carotis
+cevd;cerebral_infarction;I63.2;Cerebraal infarct door niet gespecificeerde occlusie of stenose van precerebrale arteriën;433.2;Afsluiting of stenose van arteria vertebralis
+cevd;cerebral_infarction;I63.2;Cerebraal infarct door niet gespecificeerde occlusie of stenose van precerebrale arteriën;433.3;Afsluiting of stenose precerebrale arterie, multipel of bilateraal
+cevd;cerebral_infarction;I63.2;Cerebraal infarct door niet gespecificeerde occlusie of stenose van precerebrale arteriën;433.8;Afsluiting of stenose van precerebrale arterie nec
+cevd;cerebral_infarction;I63.2;Cerebraal infarct door niet gespecificeerde occlusie of stenose van precerebrale arteriën;433.9;Afsluiting of stenose van precerebrale arterie, nno
+cevd;cerebral_infarction;I63.3;Cerebraal infarct door trombose van cerebrale arteriën;434.0;Cerebrale trombose
+cevd;cerebral_infarction;I63.4;Cerebraal infarct door embolie van cerebrale arteriën;434.1;Cerebrale embolie
+cevd;cerebral_infarction;I63.5;Cerebraal infarct door niet gespecificeerde occlusie of stenose van cerebrale arteriën;434.9;Afsluiting van cerebrale arterie, nno
+cevd;cerebral_infarction;I63.6;Cerebraal infarct door trombose van cerebrale vene, niet-pyogeen;434.0;Cerebrale trombose
+cevd;cerebral_infarction;I63.8;Overige gespecificeerde vormen van cerebraal infarct;434.9;Afsluiting van cerebrale arterie, nno
+cevd;cerebral_infarction;I63.9;Cerebraal infarct, niet gespecificeerd;434.9;Afsluiting van cerebrale arterie, nno
+cevd;retinal_infarction;H34;Vaatafsluiting van retina;;
+cevd;retinal_infarction;H34.0;Voorbijgaande afsluiting van retinale arteriën;362.34;Passagere arteriele afsluitingvan de retina
+cevd;retinal_infarction;H34.1;Afsluiting van arteria centralis retinae;362.31;Afsluiting van arteria centralis retinae
+cevd;retinal_infarction;H34.2;Overige afsluitingen van retinale arteriën;362.32;Afsluiting van een arterietak van de retina
+cevd;retinal_infarction;H34.2;Overige afsluitingen van retinale arteriën;362.33;Partiele arteriele afsluiting van de retina
+cevd;retinal_infarction;H34.8;Overige gespecificeerde vaatafsluitingen van retina;362.35;Afsluiting van de vena centralis retinae
+cevd;retinal_infarction;H34.8;Overige gespecificeerde vaatafsluitingen van retina;362.36;Afsluiting van een venetak vande retina
+cevd;retinal_infarction;H34.8;Overige gespecificeerde vaatafsluitingen van retina;362.37;Veneuze stuwing van de retina
+cevd;retinal_infarction;H34.9;Vaatafsluiting van retina, niet gespecificeerd;362.30;Vaatafsluiting van de retina, nno
+cevd;tia;G45;'Transient (cerebral) ischaemic attacks' [TIA] en verwante syndromen;;
+cevd;tia;G45.0;Vertebrobasilarissyndroom;435.0;Arteria basilaris syndroom
+cevd;tia;G45.0;Vertebrobasilarissyndroom;435.1;Arteria vertebralis syndroom
+cevd;tia;G45.1;Arteria-carotissyndroom (hemisferisch);433.1;Afsluiting of stenose van arteria carotis
+cevd;tia;G45.2;Multipele en bilaterale precerebrale-arteriesyndromen;433.3;Afsluiting of stenose precerebrale arterie, multipel of bilateraal
+cevd;tia;G45.3;Amaurosis fugax;362.34;Passagere arteriele afsluitingvan de retina
+cevd;tia;G45.4;Transient global amnesia;437.8;Cerebrovasculaire aandoening nec
+cevd;tia;G45.8;Overige gespecificeerde 'transient (cerebral) ischaemic attacks' [TIA] en verwante syndromen;435.2;'subclavian steal syndrome'
+cevd;tia;G45.8;Overige gespecificeerde 'transient (cerebral) ischaemic attacks' [TIA] en verwante syndromen;435.8;Passagere cerebrale ischemie
+cevd;tia;G45.9;'Transient (cerebral) ischaemic attack' [TIA], niet gespecificeerd;435.9;Passagere cerebrale ischemie, nno
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70;Atherosclerose;;
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.0;Atherosclerose van aorta;440.0;Atherosclerose van aorta
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.1;Atherosclerose van arteria renalis;440.1;Atherosclerose van arteria renalis
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.2;Atherosclerose van arteriën van extremiteiten;440.2;Atherosclerose van arterie vanextremiteit
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.20;Atherosclerose van arteriën van extremiteiten zonder gangreen;;
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.21;Atherosclerose van arteriën van extremiteiten met gangreen;;
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.8;Atherosclerose van overige gespecificeerde arteriën;440.8;Atherosclerose van arterie nec
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.80;Atherosclerose van overige gespecificeerde arteriën zonder gangreen;;
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.81;Atherosclerose van overige gespecificeerde arteriën met gangreen;;
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.9;Gegeneraliseerde en niet gespecificeerde atherosclerose;440.9;Gegeneraliseerde of nno atherosclerose
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.90;Gegeneraliseerde en niet gespecificeerde atherosclerose zonder gangreen;;
+pad;symptomatic_obstruct_of_distal_art_of_leg;I70.91;Gegeneraliseerde en niet gespecificeerde atherosclerose met gangreen;;

@@ -1,0 +1,61 @@
+icd10;disease;fatal;exclude
+I21;mi;0;0
+I22;mi;0;0
+I23;mi;0;0
+I60;stroke;0;0
+I61;stroke;0;0
+I62;stroke;0;0
+I63;stroke;0;0
+I64;stroke;0;0
+I65;stroke;0;0
+I66;stroke;0;0
+I67;stroke;0;0
+I68;stroke;0;0
+I69;stroke;0;0
+I60;subarachnoid hemorrhage;0;1
+I62;subdural hemorrhage;0;1
+I671;cerebral aneurysm;0;1
+I682;cerebral arteritis;0;1
+I675;moyamoya;0;1
+I10;hypertensive;1;0
+I11;hypertensive;1;0
+I12;hypertensive;1;0
+I13;hypertensive;1;0
+I14;hypertensive;1;0
+I15;hypertensive;1;0
+I16;hypertensive;1;0
+I20;ischemic;1;0
+I21;ischemic;1;0
+I22;ischemic;1;0
+I23;ischemic;1;0
+I24;ischemic;1;0
+I25;ischemic;1;0
+I46;arrythmias;1;0
+I47;arrythmias;1;0
+I48;arrythmias;1;0
+I49;arrythmias;1;0
+I50;arrythmias;1;0
+I51;arrythmias;1;0
+I52;arrythmias;1;0
+I60;cerebrovascular;1;0
+I61;cerebrovascular;1;0
+I62;cerebrovascular;1;0
+I63;cerebrovascular;1;0
+I64;cerebrovascular;1;0
+I65;cerebrovascular;1;0
+I66;cerebrovascular;1;0
+I67;cerebrovascular;1;0
+I68;cerebrovascular;1;0
+I69;cerebrovascular;1;0
+I70;aaa;1;0
+I71;aaa;1;0
+I72;aaa;1;0
+I73;aaa;1;0
+R960;sudden death;1;0
+R961;sudden death;1;0
+I514;myocarditis;1;1
+I60;subarachnoid hemorrhage;1;1
+I62;subdural hemorrhage;1;1
+I671;cerebral aneurysm;1;1
+I682;cerebral arteritis;1;1
+I675;moyamoya;1;1
